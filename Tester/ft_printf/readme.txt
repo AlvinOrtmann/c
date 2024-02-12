@@ -1,0 +1,1 @@
+compiler command: gcc tester.c libftprintf.a -o test_program
